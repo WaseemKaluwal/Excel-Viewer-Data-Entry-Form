@@ -20,8 +20,8 @@ pip install openpyxl
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/excel-viewer.git
-cd excel-viewer
+https://github.com/WaseemKaluwal/Excel-Viewer-Data-Entry-Form.git
+cd Excel-Viewer-Data-Entry-Form
 ```
 
 ## Usage
